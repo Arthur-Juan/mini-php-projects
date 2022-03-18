@@ -1,0 +1,12 @@
+{
+    "name": "art/clorocine",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+      "ext-sqlite3": "*",
+        "ext-pdo": "*"
+    }
+}

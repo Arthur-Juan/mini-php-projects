@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/app/controllers/FilmesController.php" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/app/database/database.php" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/app/database/migration_20220228_upadate_filmes_table.php" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/app/repository/FilmesRepositoryPDO.php" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/views/galeria.php" dialect="SQLite" />
+  </component>
+</project>
